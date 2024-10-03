@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "username": "Sigma",
+            "role": "admin"
+        },
+        {
+            "username": "Informatyka",
+            "role": "sprzedawca"
+        },
+        {
+            "username": "User",
+            "role": "uzytkownik"
+        },
+        {
+            "username": "admin",
+            "role": "admin"
+        },
+        {
+            "username": "sprzedawca",
+            "role": "sprzedawca"
+        },
+        {
+            "username": "uzytkownik",
+            "role": "uzytkownik"
+        }
+    ]
+}
